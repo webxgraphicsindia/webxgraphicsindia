@@ -13,19 +13,21 @@ At **WebX Graphics**, we transform ideas into innovative digital solutions. We s
 
 ## 🛠️ Our Expertise
 
+## 🛠️ Tech Stack
+
 ### 🌐 Web Development
-- 🟦 Laravel
-- ⚛️ React
-- 🟩 Node.js
-- 🌍 WordPress
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 📱 Android & Mobile App Development
-- 💙 Flutter
-- 🤖 Kotlin
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🎨 UI & UX Design
-- ✨ Modern, user-centric interfaces
-- 🔎 Seamless, intuitive experiences
+### 🎨 UI & UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
 ---
 
