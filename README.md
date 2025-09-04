@@ -1,6 +1,6 @@
 # 👋 Welcome to WebX Graphics
 
-**Owner:** Kishor Kubde  
+**Owner:** Kishor B  
 **Website:** 🌐 [webxgraphics.com](https://webxgraphics.com/)
 
 ---
@@ -28,6 +28,68 @@ delivering results that help businesses **grow and thrive**.
 ### 🎨 UI & UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+---
+
+## 🛠️ Tools & Technologies We Use
+
+At **WebX Graphics**, we leverage top tools and frameworks to deliver seamless design and powerful development solutions.
+
+### 🎨 UI/UX & Design Tools
+- **Adobe XD, Sketch, Figma** – Wireframes, prototypes, UI designs  
+- **InVision, Marvel** – Prototyping & feedback  
+- **Balsamiq, Axure** – Low-fidelity wireframes  
+- **Adobe Creative Suite, Canva, Figma** – High-quality visual design  
+
+---
+
+### 💻 Full-Stack Development
+
+#### 🌐 Front-End
+- **HTML5, CSS3, JavaScript**  
+- **React.js, Angular, Vue.js**
+
+#### ⚙️ Back-End
+- **Node.js, PHP, Python, Ruby on Rails**
+
+#### 📦 CMS Platforms
+- **WordPress, Drupal, Joomla**
+
+#### 🛒 E-commerce
+- **Shopify, WooCommerce, Magento**
+
+---
+
+### 📈 Digital Marketing & Optimization
+
+#### 🔍 Search Engine Optimization (SEO)
+- Boost rankings with optimized content, keywords, and technical strategies  
+- Tools: **SEMrush, Ahrefs, Moz**
+
+#### 📱 Social Media Marketing (SMM)
+- Grow presence & engage audiences with targeted content & ads  
+- Tools: **Hootsuite, Buffer**
+
+#### 💰 Pay-Per-Click Advertising (PPC)
+- Drive conversions with **Google Ads & Bing Ads**
+
+#### 📝 Content Marketing
+- Create valuable content to engage audiences & improve SEO
+
+#### 📧 Email Marketing
+- Personalized campaigns with **Mailchimp & HubSpot**
+
+#### 🎯 Conversion Rate Optimization (CRO)
+- Optimize design & funnels for higher conversion rates
+
+#### 🌍 Online Reputation Management (ORM)
+- Build trust & manage your digital presence
+
+---
+
+### 📊 Analytics & Research Tools
+- **Google Analytics & Search Console** – Performance tracking  
+- **SurveyMonkey, Google Analytics** – Research & insights  
 
 ---
 
