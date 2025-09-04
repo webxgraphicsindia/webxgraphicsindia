@@ -1,6 +1,6 @@
 # 👋 Welcome to WebXGraphics
 
-**Owner:** Kishor B  
+**Owner:** Kishor Kubde  
 **Website:** [webxgraphics.com](https://webxgraphics.com/)
 
 ---
