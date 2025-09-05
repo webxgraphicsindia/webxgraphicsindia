@@ -7,14 +7,14 @@
 
 ## 🚀 Who We Are
 
-At **WebX Graphics**, we transform ideas into innovative digital solutions.  
+At **WebXGraphics**, we transform ideas into innovative digital solutions.  
 We specialize in **web development, Android app development, and UI/UX design**, delivering results that help businesses grow.
 
 ---
 
 ## 💻 Tech Stack & Expertise
 
-At **WebX Graphics**, we leverage modern technologies and tools to build **scalable, user-friendly, and innovative solutions**.
+At **WebXGraphics**, we leverage modern technologies and tools to build **scalable, user-friendly, and innovative solutions**.
 
 ---
 
