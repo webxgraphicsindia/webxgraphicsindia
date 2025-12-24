@@ -129,10 +129,6 @@ At **WebXGraphics**, we leverage modern technologies and tools to build **scalab
 
 _Built with React, WordPress, and more:_
 
-- [Swastik Group (Real Estate Builder)](https://swastikgroup.org.in/)  
-- [Healing Minds (Physiotherapy & Wellness)](https://akhealingminds.com/)  
-- [Innov8 Interiors (Furniture & Design)](https://innov8-interior.com/)  
-- [Relish Realtors (Real Estate)](https://relishrealtors.com/)  
 - [WoollyBear Capital (Venture Funding)](https://woollybearcap.com/)  
 - [Green Health Clinic](https://www.greenhealthclinic.com/)  
 - [Ncorium AI](https://ncorium.ai/)  
@@ -150,7 +146,11 @@ _Built with React, WordPress, and more:_
 - [Trinity Bay](https://www.trinitybay.org/)  
 - [Park Dental Company](https://www.parkdentalcompany.com/)  
 - [Waru Jojo Safari Lodge](https://warujojosafarilodge.com/)  
-- [Nordhausen Consulting](https://www.nordhausenconsulting.com/)  
+- [Nordhausen Consulting](https://www.nordhausenconsulting.com/)
+- [Swastik Group (Real Estate Builder)](https://swastikgroup.org.in/)  
+- [Healing Minds (Physiotherapy & Wellness)](https://akhealingminds.com/)  
+- [Innov8 Interiors (Furniture & Design)](https://innov8-interior.com/)  
+- [Relish Realtors (Real Estate)](https://relishrealtors.com/)   
 
 ---
 
