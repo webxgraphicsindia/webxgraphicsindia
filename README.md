@@ -22,7 +22,7 @@ At WebXGraphics, we leverage modern technologies and tools to build scalable, us
 **Languages:** PHP, HTML, CSS, JavaScript, Python
 
 #### 🛒 Shopify Development
-We provide complete end-to-end Shopify solutions, from store setup to advanced custom theme development.  
+*(New Added Section)* We provide complete end-to-end Shopify solutions, from store setup to advanced custom theme development.  
 🔹 **Our Shopify Expertise:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End-to-end Shopify store setup  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Custom Shopify theme development  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Custom Liquid sections & advanced logic  
